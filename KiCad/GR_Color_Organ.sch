@@ -5,7 +5,7 @@ $Descr A 11000 8500
 encoding utf-8
 Sheet 1 1
 Title "Color Organ"
-Date "2021-08-03"
+Date "2021-08-17"
 Rev "1"
 Comp "Gadget Reboot"
 Comment1 "https://www.youtube.com/gadgetreboot"
@@ -547,7 +547,7 @@ L Device:C_Small C7
 U 1 1 611C9E16
 P 5650 4000
 F 0 "C7" H 5750 4050 50  0000 L CNN
-F 1 "33nF" H 5750 3950 50  0000 L CNN
+F 1 "82nF" H 5750 3950 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm" H 5650 4000 50  0001 C CNN
 F 3 "~" H 5650 4000 50  0001 C CNN
 	1    5650 4000
